@@ -1,0 +1,13 @@
+D:\programare\euler\eulerCSharp\euler25\e25\e25\obj\Debug\netcoreapp3.1\e25.csprojAssemblyReference.cache
+D:\programare\euler\eulerCSharp\euler25\e25\e25\obj\Debug\netcoreapp3.1\e25.AssemblyInfoInputs.cache
+D:\programare\euler\eulerCSharp\euler25\e25\e25\obj\Debug\netcoreapp3.1\e25.AssemblyInfo.cs
+D:\programare\euler\eulerCSharp\euler25\e25\e25\obj\Debug\netcoreapp3.1\e25.csproj.CoreCompileInputs.cache
+D:\programare\euler\eulerCSharp\euler25\e25\e25\bin\Debug\netcoreapp3.1\e25.exe
+D:\programare\euler\eulerCSharp\euler25\e25\e25\bin\Debug\netcoreapp3.1\e25.deps.json
+D:\programare\euler\eulerCSharp\euler25\e25\e25\bin\Debug\netcoreapp3.1\e25.runtimeconfig.json
+D:\programare\euler\eulerCSharp\euler25\e25\e25\bin\Debug\netcoreapp3.1\e25.runtimeconfig.dev.json
+D:\programare\euler\eulerCSharp\euler25\e25\e25\bin\Debug\netcoreapp3.1\e25.dll
+D:\programare\euler\eulerCSharp\euler25\e25\e25\bin\Debug\netcoreapp3.1\e25.pdb
+D:\programare\euler\eulerCSharp\euler25\e25\e25\obj\Debug\netcoreapp3.1\e25.dll
+D:\programare\euler\eulerCSharp\euler25\e25\e25\obj\Debug\netcoreapp3.1\e25.pdb
+D:\programare\euler\eulerCSharp\euler25\e25\e25\obj\Debug\netcoreapp3.1\e25.genruntimeconfig.cache

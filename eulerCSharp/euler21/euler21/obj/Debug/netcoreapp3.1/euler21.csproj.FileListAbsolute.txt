@@ -1,0 +1,13 @@
+D:\CSharp_vs\euler\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.exe
+D:\CSharp_vs\euler\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.deps.json
+D:\CSharp_vs\euler\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.runtimeconfig.json
+D:\CSharp_vs\euler\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.runtimeconfig.dev.json
+D:\CSharp_vs\euler\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.dll
+D:\CSharp_vs\euler\euler21\euler21\bin\Debug\netcoreapp3.1\euler21.pdb
+D:\CSharp_vs\euler\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.csprojAssemblyReference.cache
+D:\CSharp_vs\euler\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.AssemblyInfoInputs.cache
+D:\CSharp_vs\euler\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.AssemblyInfo.cs
+D:\CSharp_vs\euler\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\euler\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.dll
+D:\CSharp_vs\euler\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.pdb
+D:\CSharp_vs\euler\euler21\euler21\obj\Debug\netcoreapp3.1\euler21.genruntimeconfig.cache

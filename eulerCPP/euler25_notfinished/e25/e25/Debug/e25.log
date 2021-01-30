@@ -1,0 +1,4 @@
+﻿  e25.cpp
+D:\programare\euler\eulerCPP\euler25\e25\e25\e25.cpp(22,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\programare\euler\eulerCPP\euler25\e25\e25\e25.cpp(24,28): warning C4018: >: несоответствие типов со знаком и без знака
+  e25.vcxproj -> D:\programare\euler\eulerCPP\euler25\e25\Debug\e25.exe

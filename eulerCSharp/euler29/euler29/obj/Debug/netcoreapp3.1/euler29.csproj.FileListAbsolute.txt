@@ -1,0 +1,13 @@
+D:\programare\euler\eulerCSharp\euler29\euler29\bin\Debug\netcoreapp3.1\euler29.exe
+D:\programare\euler\eulerCSharp\euler29\euler29\bin\Debug\netcoreapp3.1\euler29.deps.json
+D:\programare\euler\eulerCSharp\euler29\euler29\bin\Debug\netcoreapp3.1\euler29.runtimeconfig.json
+D:\programare\euler\eulerCSharp\euler29\euler29\bin\Debug\netcoreapp3.1\euler29.runtimeconfig.dev.json
+D:\programare\euler\eulerCSharp\euler29\euler29\bin\Debug\netcoreapp3.1\euler29.dll
+D:\programare\euler\eulerCSharp\euler29\euler29\bin\Debug\netcoreapp3.1\euler29.pdb
+D:\programare\euler\eulerCSharp\euler29\euler29\obj\Debug\netcoreapp3.1\euler29.csprojAssemblyReference.cache
+D:\programare\euler\eulerCSharp\euler29\euler29\obj\Debug\netcoreapp3.1\euler29.AssemblyInfoInputs.cache
+D:\programare\euler\eulerCSharp\euler29\euler29\obj\Debug\netcoreapp3.1\euler29.AssemblyInfo.cs
+D:\programare\euler\eulerCSharp\euler29\euler29\obj\Debug\netcoreapp3.1\euler29.csproj.CoreCompileInputs.cache
+D:\programare\euler\eulerCSharp\euler29\euler29\obj\Debug\netcoreapp3.1\euler29.dll
+D:\programare\euler\eulerCSharp\euler29\euler29\obj\Debug\netcoreapp3.1\euler29.pdb
+D:\programare\euler\eulerCSharp\euler29\euler29\obj\Debug\netcoreapp3.1\euler29.genruntimeconfig.cache

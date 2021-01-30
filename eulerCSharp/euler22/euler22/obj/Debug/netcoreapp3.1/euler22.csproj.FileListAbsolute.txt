@@ -1,0 +1,13 @@
+D:\programare\CSharp_vs\euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.csprojAssemblyReference.cache
+D:\programare\CSharp_vs\euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.AssemblyInfoInputs.cache
+D:\programare\CSharp_vs\euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.AssemblyInfo.cs
+D:\programare\CSharp_vs\euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.csproj.CoreCompileInputs.cache
+D:\programare\CSharp_vs\euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.exe
+D:\programare\CSharp_vs\euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.deps.json
+D:\programare\CSharp_vs\euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.runtimeconfig.json
+D:\programare\CSharp_vs\euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.runtimeconfig.dev.json
+D:\programare\CSharp_vs\euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.dll
+D:\programare\CSharp_vs\euler\euler22\euler22\bin\Debug\netcoreapp3.1\euler22.pdb
+D:\programare\CSharp_vs\euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.dll
+D:\programare\CSharp_vs\euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.pdb
+D:\programare\CSharp_vs\euler\euler22\euler22\obj\Debug\netcoreapp3.1\euler22.genruntimeconfig.cache

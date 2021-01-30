@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "euler21", "euler21\euler21.csproj", "{B52E2B5F-0A0E-4329-88A5-D4D3B9A94694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52E2B5F-0A0E-4329-88A5-D4D3B9A94694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52E2B5F-0A0E-4329-88A5-D4D3B9A94694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52E2B5F-0A0E-4329-88A5-D4D3B9A94694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52E2B5F-0A0E-4329-88A5-D4D3B9A94694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC657D98-1D5F-42C5-9531-7CF76423BBF9}
+	EndGlobalSection
+EndGlobal

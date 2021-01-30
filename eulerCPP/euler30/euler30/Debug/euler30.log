@@ -1,0 +1,4 @@
+﻿  euler30.cpp
+D:\programare\euler\eulerCPP\euler30\euler30\euler30.cpp(24,47): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\programare\euler\eulerCPP\euler30\euler30\euler30.cpp(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+  euler30.vcxproj -> D:\programare\euler\eulerCPP\euler30\Debug\euler30.exe

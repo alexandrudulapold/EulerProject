@@ -1,0 +1,12 @@
+D:\CSharp_vs\euler\2\2\bin\Debug\netcoreapp3.1\2.exe
+D:\CSharp_vs\euler\2\2\bin\Debug\netcoreapp3.1\2.deps.json
+D:\CSharp_vs\euler\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+D:\CSharp_vs\euler\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+D:\CSharp_vs\euler\2\2\bin\Debug\netcoreapp3.1\2.dll
+D:\CSharp_vs\euler\2\2\bin\Debug\netcoreapp3.1\2.pdb
+D:\CSharp_vs\euler\2\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+D:\CSharp_vs\euler\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+D:\CSharp_vs\euler\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+D:\CSharp_vs\euler\2\2\obj\Debug\netcoreapp3.1\2.dll
+D:\CSharp_vs\euler\2\2\obj\Debug\netcoreapp3.1\2.pdb
+D:\CSharp_vs\euler\2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache

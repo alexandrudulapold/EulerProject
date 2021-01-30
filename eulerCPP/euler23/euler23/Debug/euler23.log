@@ -1,0 +1,4 @@
+﻿  euler23.cpp
+D:\programare\euler\eulerCPP\euler23\euler23\euler23.cpp(79,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\programare\euler\eulerCPP\euler23\euler23\euler23.cpp(83,24): warning C4018: <: несоответствие типов со знаком и без знака
+  euler23.vcxproj -> D:\programare\euler\eulerCPP\euler23\Debug\euler23.exe

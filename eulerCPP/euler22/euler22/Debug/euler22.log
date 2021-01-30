@@ -1,0 +1,4 @@
+﻿  euler22.cpp
+D:\euler\euler22\euler22\euler22.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+D:\euler\euler22\euler22\euler22.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+  euler22.vcxproj -> D:\euler\euler22\Debug\euler22.exe

@@ -1,0 +1,5 @@
+﻿  euler26.cpp
+D:\programare\euler\eulerCPP\euler26\euler26\euler26.cpp(70,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\programare\euler\eulerCPP\euler26\euler26\euler26.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\programare\euler\eulerCPP\euler26\euler26\euler26.cpp(96,23): warning C4018: <: несоответствие типов со знаком и без знака
+  euler26.vcxproj -> D:\programare\euler\eulerCPP\euler26\Debug\euler26.exe
